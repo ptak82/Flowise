@@ -33,7 +33,7 @@ export const theme = (customization) => {
           }
         : {
               colors: color,
-              heading: color.grey900,
+              heading: color.blue,
               paper: color.paper,
               backgroundDefault: color.paper,
               background: color.primaryLight,

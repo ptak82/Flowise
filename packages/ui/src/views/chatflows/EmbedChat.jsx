@@ -204,8 +204,8 @@ const chatwindowConfig = (isReact = false) => {
                 footer: {
                     textColor: '#303235',
                     text: 'Powered by',
-                    company: 'Flowise',
-                    companyLink: 'https://flowiseai.com',
+                    company: 'AI4app.pl',
+                    companyLink: 'https://ai4app.pl',
                 }
             }`
 }
